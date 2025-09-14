@@ -35,7 +35,7 @@ Um editor como Visual Studio ou Visual Studio Code.
 
 Clone este repositório:
 
-git clone https://github.com/seuusuario/desafio-estacionamento.git
+git clone https://github.com/Alan-RiBas/desafio-net-estacionamento
 
 
 Acesse a pasta do projeto:
